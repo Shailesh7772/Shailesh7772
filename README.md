@@ -122,6 +122,34 @@
 
 ---
 
+---
+
+### 📜 Certifications & Achievements
+
+<p align="center">
+
+  <!-- Coding -->
+  <img src="https://img.shields.io/badge/150%2B%20LeetCode%20Problems%20Solved-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/50%20Days%20LeetCode%20Streak-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GFG%20CP%20Participant-28A745?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank%20Python%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/100%20Days%20of%20Code%20Completed-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- Hackathons & Competitions -->
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202024%20%7C%20Internal%20Round%20Winner-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Top%205%25%20in%20BuildWithIndia%20Hackathon-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/National%20Tech%20Fest%20Rank%20Holder-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IEEE%20Published%20Author-1565C0?style=for-the-badge&logo=ieee&logoColor=white"/>
+
+  <!-- Courses -->
+  <img src="https://img.shields.io/badge/IBM%20Data%20Science%20Certificate-00B3EC?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Data%20Foundations%20Course-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Udemy%20Python%20Web%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mastering%20DSA%20on%20Udemy-5C2D91?style=for-the-badge&logo=udemy&logoColor=white"/>
+
+</p>
+
+
 ### 📄 Resume & Portfolio
 
 - 📌 [My Resume](https://shailesh-portfolio1.netlify.app/resume.pdf)
